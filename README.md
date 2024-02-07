@@ -1,5 +1,7 @@
-# Compétition Kaggle : Classification d'Images de Cancers Ovariens
-Voici ma contribution à la compétition Kaggle sur la classification d'images de cancers ovariens! Dans ce projet, je vais développer un modèle de classification capable de distinguer différents types de cancers ovariens à partir d'images histologiques.
+# KA-CV-P3-Ovarian_cancer_classification
+
+## Compétition Kaggle : Classification d'Images de Cancers Ovariens
+Voici ma contribution à la compétition Kaggle (https://www.kaggle.com/competitions/UBC-OCEAN) sur la classification d'images de cancers ovariens! Dans ce projet, je vais développer un modèle de classification capable de distinguer différents types de cancers ovariens à partir d'images histologiques.
 
 ## Ma Stratégie
 Ma stratégie pour aborder cette compétition est la suivante :
@@ -13,4 +15,4 @@ Entraînement d'un Modèle VGG16 : J'utiliserai le modèle VGG16 pré-entrainé 
 ## Contributions
 Les contributions sont les bienvenues! Si vous avez des suggestions d'amélioration, des rapports de bugs ou des idées pour de nouvelles fonctionnalités, n'hésitez pas à ouvrir une issue ou à soumettre une demande de pull request.
 
-Merci pour votre lecture !# KA-CV-P3-Ovarian_cancer_classification
+Merci pour votre lecture !
